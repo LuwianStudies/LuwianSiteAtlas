@@ -1,6 +1,6 @@
 # 🏛️ LuwianSiteAtlas
 
-**LuwianSiteAtlas** is an open-access digital platform developed by the Luwian Studies Foundation to document 483 Middle and Late Bronze Age settlements (ca. 2000–1000 BCE) in western Anatolia. This repository provides the source code, data structure, and tools that power the platform.
+**LuwianSiteAtlas** is an open-access digital platform developed by the Luwian Studies Foundation (https://luwianstudies.org/) to document 483 Middle and Late Bronze Age settlements (ca. 2000–1000 BCE) in western Anatolia. This repository provides the source code, data structure, and tools that power the platform.
 
 ## 📦 Contents
 
